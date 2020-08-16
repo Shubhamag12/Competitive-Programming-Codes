@@ -9,11 +9,11 @@ for _ in range(m):
     if b + 1 <= n:
         v[b+1] -= k
         
-maximum__sum = 0
+maximum_sum = 0
 sum = 0
 
 for i in v:
     sum += i
-    maximum__sum = max(maximum__sum, sum)
+    maximum_sum = max(maximum_sum, sum)
 
-print(maximum__sum)    
+print(maximum_sum)    
