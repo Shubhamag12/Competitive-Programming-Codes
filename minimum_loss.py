@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/minimum-loss/problem
+#https://www.hackerrank.com/challenges/minimum-loss/problem
 
 n = int(input())
 price = list(map(int, input().rstrip().split()))
