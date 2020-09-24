@@ -1,1 +1,1 @@
-# This repository provides solution to the problems given in codechef, hackerrank and hackerearth.
+# This repository provides solution to the problems given in Leetcode, hackerrank and hackerearth.
