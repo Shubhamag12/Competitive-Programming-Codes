@@ -1,4 +1,4 @@
-https://www.hackerearth.com/problem/algorithm/plan-for-nothing-c5768603/description/
+# https://www.hackerearth.com/problem/algorithm/plan-for-nothing-c5768603/description/
 
 n = int(input())
 a = [0]*(10**6 + 5)
