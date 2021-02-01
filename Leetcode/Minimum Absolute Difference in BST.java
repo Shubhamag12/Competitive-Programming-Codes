@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 
-/**
+/*
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
